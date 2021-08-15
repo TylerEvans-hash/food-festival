@@ -23,7 +23,5 @@ if (window.location.href.indexOf("event") > -1) {
       ),
       
     )
-    
-
     pageEl.appendChild(containerEl)
 };
